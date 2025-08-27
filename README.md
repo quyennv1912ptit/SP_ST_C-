@@ -1,7 +1,7 @@
 # Space Shooter Game :rocket::rocket::rocket:
 ## Complie and run
 ```bash
-cmake -S . -B build -G "MinGW Makefiles" -DCMAKE_CXX_COMPILER="C:\mingw64\bin\g++.exe"
+cmake -S . -B build -G "MinGW Makefiles"
 cmake --build build
 .\build\SP_ST.exe
 ```
